@@ -10,7 +10,7 @@ from urllib.parse import quote
 import pprint
 GITLAB_URL = "https://gitlab.com"
 PROJECT_PATH = "101camp/7py/tasks"
-ACCESS_TOKEN = "glpat-XXXXXXXXXXXXXXXXXXXX"  
+ACCESS_TOKEN = "......"  
 
 ENCODED_PROJECT_PATH = quote(PROJECT_PATH, safe='')
 
